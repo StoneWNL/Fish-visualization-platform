@@ -1,0 +1,20 @@
+{
+    "status": 200,
+    "data": {
+        "rate_fish1": {
+            "name": "鱼1",
+            "survival": 920,
+            "total": 1000
+        },
+        "rate_fish2": {
+            "name": "鱼2",
+            "survival": 940,
+            "total": 1000
+        },
+        "srate_fish3": {
+            "name": "鱼1",
+            "survival": 970,
+            "total": 1000
+        },
+    }
+}

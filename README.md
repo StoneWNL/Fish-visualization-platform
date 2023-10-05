@@ -7,7 +7,8 @@ vue echarts以及前端三件套搭建的简单小项目
 1.安装依赖
 
 `npm i`
-2. 启动项目
+
+<br>2. 启动项目
 
 `npm run serve`
 
